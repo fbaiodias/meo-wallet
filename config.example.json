@@ -1,4 +1,6 @@
 {
   "url": "https://services.wallet.pt/api/v2/",
-  "key": "YOUR KEY"
+  "key": "YOUR KEY",
+  "url_confirm":"http://example.com/confirm",
+  "url_cancel":"http://example.com/cancel"
 }

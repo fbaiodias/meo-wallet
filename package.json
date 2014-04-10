@@ -1,6 +1,6 @@
 {
   "name": "meo-wallet",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Node wrapper for MEO Wallet API",
   "tags": [
     "meo",

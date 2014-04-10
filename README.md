@@ -49,7 +49,7 @@ wallet.checkout.delete('153ea3e1-6fce-4e86-9c80-1169c00eae9c', function(error, c
   console.log(checkout);
 });
 
-wallet.operations.getOperations('?limit=3', function(error, operations) {
+wallet.operations.getOperations('limit=3', function(error, operations) {
   if(error) {
     console.log(error);
   }
