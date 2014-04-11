@@ -29,3 +29,4 @@ config.json
 
 # Other stuff
 mytest.js
+.DS_Store
