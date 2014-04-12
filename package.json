@@ -1,6 +1,6 @@
 {
   "name": "meo-wallet",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node wrapper for MEO Wallet API",
   "tags": [
     "meo",
@@ -17,6 +17,7 @@
     "url": "git://github.com/XicoMBD/meo-wallet.git"
   },
   "author": "Francisco Dias <francisco@baiodias.com> (http://franciscodias.net/)",
+  "contributors": ['David Silva <davidslv@gmail.com> (http://davidslv.com/)']
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/XicoMBD/meo-wallet/issues"

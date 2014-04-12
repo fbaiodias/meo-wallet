@@ -6,17 +6,17 @@ https://developers.wallet.pt/
 
 # Usage
 
-```javascript 
+```javascript
 var wallet = require('meo-wallet');
 
-wallet.checkout.create({ 
+wallet.checkout.create({
   "client": {
-    "name": "some name", 
-    "email": "foo@bar.com", 
+    "name": "some name",
+    "email": "foo@bar.com",
     "address": {
-      "country": "pt", 
-      "address":"some street", 
-      "city": "lisboa", 
+      "country": "pt",
+      "address":"some street",
+      "city": "lisboa",
       "postalcode": "1100-000"
     }
   },
